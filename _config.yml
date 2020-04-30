@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: [Terry前端io实验室]
 description: [各种前端测试]
+
+show_downloads: [false]
+#google_analytics: [Your Google Analytics tracking ID]
